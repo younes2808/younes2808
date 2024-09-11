@@ -16,7 +16,6 @@ A passionate fullstack-developer from Norway
 * 🤝  I'm open to collaborating on interesting projects
 * 🚀  I'm currently working on my portfolio website using **React**, **Three.js**, **GSAP**
 * 🧠  I'm learning new frameworks: **Langchain (PY)**, **GSAP(JS)**, **Three.js(JS)**
-* ✉️  You can contact me at [benhaida.mehdi@gmail.com]
 
 ### Tools & Languages
 
