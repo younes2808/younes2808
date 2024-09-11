@@ -7,16 +7,16 @@ A passionate fullstack-developer from Norway
 -->
 
 ### Personal stuff
-* 🌍  I'm based in Oslo, Norway
+* 🌍 I'm based in Oslo, Norway
 * 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2025
 * 📫 How to reach me benhaida.mehdi@gmail.com
-* 🖥️  My portfolio: **Under development**
+* 🖥️ My portfolio: **Under development**
   
 ### Current info
 * 🤝  I'm open to collaborating on interesting projects
 * 🚀  I'm currently working on my portfolio website using **React**, **Three.js**, **GSAP**
 * 🧠  I'm learning new frameworks: **Langchain (PY)**, **GSAP(JS)**, **Three.js(JS)**
-* ✉️   You can contact me at [benhaida.mehdi@gmail.com]
+* ✉️  You can contact me at [benhaida.mehdi@gmail.com]
 
 ### Tools & Languages
 
