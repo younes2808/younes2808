@@ -8,7 +8,7 @@ A passionate fullstack-developer from Norway
 
 ### Personal stuff
 * 🌍  I'm based in Norway
-* 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2023
+* 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2025
 * 📫 How to reach me benhaida.mehdi@gmail.com
 * 🖥️  My portfolio: **Under development**
 <!-- * 🤝  I'm open to collaborating on interesting projects -->
