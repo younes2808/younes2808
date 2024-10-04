@@ -59,4 +59,6 @@ A passionate fullstack-developer from Norway
 <a href="https://www.linkedin.com/in/younes-benhaida-44495827b/">LinkedIn</a>
 
 ### My Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younes2808&show_icons=true&theme=tokyonight)](https://github.com/younes2808)
+[![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=younes2808&show_icons=true&theme=tokyonight)](https://github.com/younes2808)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younes2808&show_icons=true&theme=tokyonight)](https://github.com/younes2808)
+
