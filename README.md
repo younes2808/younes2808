@@ -13,7 +13,7 @@ A passionate fullstack-developer from Norway
 * 🖥️ My portfolio: **Under development**
   
 ### Current info
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  Coding since **2020**
 * 🚀  I'm currently working on my portfolio website using **React**, **Three.js**, **GSAP**
 * 🧠  I'm learning new frameworks: **Langchain (PY)**, **GSAP(JS)**, **Three.js(JS)**
 
