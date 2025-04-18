@@ -59,14 +59,15 @@ A passionate fullstack-developer from Norway
 <a href="https://www.linkedin.com/in/younes-benhaida-44495827b/">LinkedIn</a>
 
 ### My Github stats
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="vertical-align: top; border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=younes2808&show_icons=true&theme=tokyonight" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes2808&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
+
 
