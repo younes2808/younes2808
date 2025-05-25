@@ -61,7 +61,7 @@ A passionate fullstack-developer from Norway
 </p>
 
 ### Socials
-<a href="https://www.linkedin.com/in/younes-benhaida-44495827b/">LinkedIn</a>
+<p> Contact me on </p><a href="https://www.linkedin.com/in/younes-benhaida-44495827b/">LinkedIn</a>
 
 
 
