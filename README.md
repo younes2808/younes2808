@@ -11,11 +11,6 @@ A passionate fullstack-developer from Norway
 * 🎓 Bachelor of Science in Software Engineering, Oslo Metropolitan University, 2025
 * 📫 How to reach me benhaida.mehdi@gmail.com
 * 🖥️ My portfolio: **Under development**
-  
-### Current info
-* 🤝  Coding since **2020**
-* 🚀  I'm currently working on my portfolio website using **React**, **Three.js**, **GSAP**
-* 🧠  I'm learning new frameworks: **Langchain (PY)**, **GSAP(JS)**, **Three.js(JS)**
 
 ### Tools & Languages
 
