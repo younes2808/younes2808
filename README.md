@@ -12,6 +12,16 @@ A passionate fullstack-developer from Norway
 * 📫 How to reach me benhaida.mehdi@gmail.com
 * 🖥️ My portfolio: **Under development**
 
+### My Github stats
+<p align="center">
+  <span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=younes2808&show_icons=true&theme=tokyonight" />
+  </span>
+  <span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes2808&layout=compact&show_icons=true&theme=tokyonight" />
+  </span>
+</p>
+
 ### Tools & Languages
 
 <p >
@@ -52,16 +62,6 @@ A passionate fullstack-developer from Norway
 
 ### Socials
 <a href="https://www.linkedin.com/in/younes-benhaida-44495827b/">LinkedIn</a>
-
-### My Github stats
-<p align="center">
-  <span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=younes2808&show_icons=true&theme=tokyonight" />
-  </span>
-  <span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes2808&layout=compact&show_icons=true&theme=tokyonight" />
-  </span>
-</p>
 
 
 
