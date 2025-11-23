@@ -7,10 +7,10 @@ A passionate fullstack-developer from Norway
 -->
 
 ### Personal stuff
-* 🌍 **Data Analyst** at **Montel**
+* **Data Analyst** at **Montel**
 * 🎓 Bachelor of Science in Software Engineering, Oslo Metropolitan University, 2025
-* 📫 How to reach me benhaida.mehdi@gmail.com
-* 🖥️ My portfolio: https://younes2808.github.io/portfolio/
+* How to reach me benhaida.mehdi@gmail.com
+* My portfolio: https://younes2808.github.io/portfolio/
 
 ### My Github stats
 <p align="center">
