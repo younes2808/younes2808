@@ -8,8 +8,8 @@ A passionate fullstack-developer from Norway
 
 ### Personal stuff
 * **Data Analyst** at **Montel**
-* ⌛ Master of Programming and Systems Architecture, University of Oslo (UiO), 2027
-* 🎓 Bachelor of Science in Software Engineering, Oslo Metropolitan University, 2025
+* Master of Programming and Systems Architecture, University of Oslo (UiO), 2027
+* Bachelor of Science in Software Engineering, Oslo Metropolitan University, 2025
 * How to reach me benhaida.mehdi@gmail.com
 * My portfolio: https://younes2808.github.io/portfolio/
 
