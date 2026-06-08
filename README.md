@@ -28,7 +28,7 @@ A passionate fullstack-developer from Norway
 <p >
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTReZGzoPfgvtLMyn4x9YrJshHHMETW57Iew&s" width="36" height="36" alt="Three.js" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/3840px-Three.js_Icon.svg.png" width="36" height="36" alt="Three.js" />
 </a>
 <a href="https://tailwindcss.com
 " target="_blank" rel="noreferrer">
